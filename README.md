@@ -5,7 +5,7 @@ A project that enables the database to be managed over the web.
 
 # Language
 * Java
-* JavaScript (React)
+* JavaScript ( React )
 * HTML
 * CSS
 
