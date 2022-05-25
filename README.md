@@ -10,3 +10,4 @@ A project that enables the database to be managed over the web.
 * CSS
 
 # Architecture
+<img width="80%" src="https://user-images.githubusercontent.com/69864897/170301418-5bb92627-c353-450b-b356-4564d9ea940b.png">
